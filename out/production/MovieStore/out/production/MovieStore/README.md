@@ -1,2 +1,0 @@
-# MovieStore
-Movie Store program
